@@ -1,2 +1,2 @@
 ## Project: Netflix Movies
-DataCamp project to analyse data from Netflix movies.
+DataCamp's project to analyse data from Netflix movies.
